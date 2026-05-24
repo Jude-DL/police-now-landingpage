@@ -405,7 +405,7 @@ function ContactSection() {
             <p>
               <Mail size={18} />
               <strong style={{ marginLeft: 8 }}>Email:</strong>
-              <a style={{ marginLeft: 8 }} href="mailto:police@police-now.com">police@police-now.com</a>
+              <a style={{ marginLeft: 8 }} href="mailto:policenowresident@gmail.com">policenowresident@gmail.com</a>
             </p>
           </div>
 
